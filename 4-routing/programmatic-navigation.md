@@ -1,7 +1,5 @@
 # Programmatic navigation
 
-Follow me on [Twitter](https://twitter.com/chris_noring), happy to take your suggestions on topics or improvements /Chris
-
 Usually we navigate using the `Link` component but sometimes we need to navigate based on an action. Then we are talking about programmatic navigation. There are essentially two ways of making that happen:
 
 - history.push('url')
